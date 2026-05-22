@@ -272,10 +272,7 @@
   }
 }
 
-.font-rubik {
-  font-family: var(--font-rubik), sans-serif;
-}
-
-.font-bricolage {
-  font-family: var(--font-bricolage), sans-serif;
+@theme {
+  --font-rubik: var(--font-rubik);
+  --font-bricolage: var(--font-bricolage);
 }
